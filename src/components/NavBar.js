@@ -12,10 +12,10 @@ function NavBar() {
 
                     <nav>
                         <ul>
-                            <li><a href="#">Sobre Mí</a></li>
-                            <li><a href="#">Music</a></li>
-                            <li><a href="#">Shop</a></li>
-                            <li><a href="#">Contacto</a></li>
+                            <li><a href="@">Sobre Mí</a></li>
+                            <li><a href="@">Music</a></li>
+                            <li><a href="@">Shop</a></li>
+                            <li><a href="@">Contacto</a></li>
                         </ul>
                     </nav>
 
