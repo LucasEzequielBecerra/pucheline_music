@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/pucheline_music/static/css/main.073c9b0a.css",
-    "main.js": "/pucheline_music/static/js/main.c53ff25a.js",
+    "main.css": "/pucheline_music/static/css/main.93f34b0a.css",
+    "main.js": "/pucheline_music/static/js/main.693b2f1c.js",
     "static/js/787.2e0f80a4.chunk.js": "/pucheline_music/static/js/787.2e0f80a4.chunk.js",
+    "static/media/remera-producto.jpeg": "/pucheline_music/static/media/remera-producto.a4a6c57326e3768a442f.jpeg",
     "index.html": "/pucheline_music/index.html",
-    "main.073c9b0a.css.map": "/pucheline_music/static/css/main.073c9b0a.css.map",
-    "main.c53ff25a.js.map": "/pucheline_music/static/js/main.c53ff25a.js.map",
+    "main.93f34b0a.css.map": "/pucheline_music/static/css/main.93f34b0a.css.map",
+    "main.693b2f1c.js.map": "/pucheline_music/static/js/main.693b2f1c.js.map",
     "787.2e0f80a4.chunk.js.map": "/pucheline_music/static/js/787.2e0f80a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c53ff25a.js"
+    "static/css/main.93f34b0a.css",
+    "static/js/main.693b2f1c.js"
   ]
 }
