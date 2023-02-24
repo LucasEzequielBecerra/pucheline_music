@@ -17,9 +17,9 @@ const Item = (props) => {
                     <p onClick={ () => {if (contador > 0) {setCount (contador => contador -1)}} }>-</p>
                             <h4>{ contador }</h4>
                             <p onClick={ () => {if (contador < 7) {setCount (contador => contador +1)}} }>+</p>
-                        </div>
+                </div>
                         <button href="#">Agregar al carrito</button>
-                    </div>
+             </div>
         </div> 
     )
 }

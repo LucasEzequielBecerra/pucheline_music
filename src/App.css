@@ -16,6 +16,14 @@
   margin: auto;
 }
 
+h5 {
+  margin-top: 5rem;
+  text-align: center;
+  font-size: 2rem;
+  color: var(--cream);
+  font-weight: 200;
+}
+
 button {
   background-color: transparent;
   border: 0;
