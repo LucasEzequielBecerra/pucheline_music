@@ -1,7 +1,12 @@
-function ItemListContainer ({ greeting }) {
+import ItemList from "./ItemList";
+
+function ItemListContainer () {
     return (
         <div className="container">
-            <h2 className="item">{ greeting }</h2>
+
+          <div className='productos container'>
+                     <ItemList />
+          </div>
         </div>
     );
 }
